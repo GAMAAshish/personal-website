@@ -4,7 +4,7 @@ This is a simple website for publishing a CV, research and writing. It will be u
 
 ## Guide
 
-The instructions below assume that the reader is an enthusiastic beginner to things like Git, the command line, static site generators, and other things code-related. As such, there are footnotes peppered throughout that provide a little more context on terms that may be unfamiliar.
+The instructions below assume that the reader is an enthusiastic beginner to things like Git, the command line, static site generators, and other things code-related. As such, there are footnotes prepared throughout that provide a little more context on terms that may be unfamiliar.Follow these simple steps and you are done publishing your CV.
 
 ### Getting started
 
